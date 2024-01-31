@@ -1,4 +1,4 @@
-#About
+# About
 
 basic login page i made using angular to improve my scss skills
 
